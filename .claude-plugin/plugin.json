@@ -1,0 +1,12 @@
+{
+  "name": "sf-teacher",
+  "version": "1.0.0",
+  "description": "Salesforce teaching assistant — learn Salesforce with Claude as your adaptive teacher",
+  "author": {
+    "name": "Gella Sangamesh Gupta",
+    "url": "https://github.com/sangameshgupta"
+  },
+  "repository": "https://github.com/sangameshgupta/sf-teacher",
+  "license": "MIT",
+  "keywords": ["salesforce", "teaching", "learning", "apex", "lwc", "admin", "developer", "flows", "soql"]
+}
